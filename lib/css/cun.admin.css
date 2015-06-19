@@ -1,0 +1,26 @@
+div.cun-intro {
+	margin: 0 0 2.4em;
+}
+
+div.cun-intro ul {
+	margin: 0 0 0 3em;
+}
+
+div.cun-intro ul li {
+	display: block;
+	width: 100%;
+}
+
+div.cun-intro ul li span,
+div.cun-intro ul li code {
+	display: inline-block;
+	vertical-align: top;
+}
+
+div.cun-intro ul li span { width: 300px; text-align: left; font-weight: 700; padding: 0 1em 0 0; }
+div.cun-intro ul li code { width: 200px; text-align: center; }
+
+
+table.cun-table {
+	max-width: 800px;
+}

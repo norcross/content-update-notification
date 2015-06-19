@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: content-update-notification\n"
+"POT-Creation-Date: 2014-03-26 14:10-0500\n"
+"PO-Revision-Date: 2014-03-26 14:10-0500\n"
+"Last-Translator: Andrew Norcross <andrew@andrewnorcross.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: lib\n"
+
+#: content-update-notification.php:98
+msgid "Name of site the content resides on"
+msgstr "Name of site the content resides on"
+
+#: content-update-notification.php:102
+msgid "Name of content edited"
+msgstr "Name of content edited"
+
+#: content-update-notification.php:106
+msgid "Time of edit"
+msgstr "Time of edit"
+
+#: content-update-notification.php:110
+msgid "Link to content"
+msgstr "Link to content"
+
+#: content-update-notification.php:114
+msgid "Username who processed update"
+msgstr "Username who processed update"
+
+#: content-update-notification.php:190
+msgid "Content has recently been changed"
+msgstr "Content has recently been changed"
+
+#: lib/admin.php:39
+msgid "Settings"
+msgstr "Settings"
+
+#: lib/admin.php:81
+msgid "Settings have been saved."
+msgstr "Settings have been saved."
+
+#: lib/admin.php:116
+msgid "Content Notifications"
+msgstr "Content Notifications"
+
+#: lib/admin.php:167
+msgid "Content Update Notifications"
+msgstr "Content Update Notifications"
+
+#: lib/admin.php:170
+msgid ""
+"Use the following tags (with curly brackets) for specific pieces of data "
+"created during the notification process"
+msgstr ""
+"Use the following tags (with curly brackets) for specific pieces of data "
+"created during the notification process"
+
+#: lib/admin.php:177
+msgid "Notification List"
+msgstr "Notification List"
+
+#: lib/admin.php:184
+msgid "Emails"
+msgstr "Emails"
+
+#: lib/admin.php:187
+msgid "Enter email address(es) to notify on changes, separated by commas"
+msgstr "Enter email address(es) to notify on changes, separated by commas"
+
+#: lib/admin.php:196
+msgid "Email Notification"
+msgstr "Email Notification"
+
+#: lib/admin.php:203
+msgid "Email Subject"
+msgstr "Email Subject"
+
+#: lib/admin.php:206
+msgid "The email subject line"
+msgstr "The email subject line"
+
+#: lib/admin.php:211
+msgid "Email Content"
+msgstr "Email Content"
+
+#: lib/admin.php:222
+msgid ""
+"This is the email body that will be sent when content has been added or "
+"updated."
+msgstr ""
+"This is the email body that will be sent when content has been added or "
+"updated."
+
+#: lib/admin.php:231
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: lib/content.php:153
+msgid "Email failed"
+msgstr "Email failed"
+
+#: lib/content.php:153
+msgid "Email sent"
+msgstr "Email sent"
